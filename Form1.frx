@@ -1,0 +1,12 @@
+ÿ¾     What this program does is this.  After you specify the Master and Compare File, the program will compare the 
+two and will display everything in the compare file that is not in the master file.  The differnt lines will be in red.  
+There is one fluke with the program I use Instr() to compare a line from the compare file to the whole master file, 
+so repetitive keywords like End If, Else, and others like that are not displayed in red.  Sorry.  If you click on the 
+compare or master panes the whole line will be highlight, to highlight more hold the shift key down and select 
+more lines.  Use the traditional cut, copy, and paste commands to use those functions.  This program wasn't 
+design to let you save, just copy changes into the VB IDE.  MAKE SURE YOU ONLY HGHLIGHT BLACK LINES WHEN JUMPING TO MASTER FILE, IF NOT PROGRAM CRASH WILL RESULT!!!
+    
+    
+DarkMercenary44
+DarkMercenary44@cheapconnect.net
+http://www.vbdevelopers.org
